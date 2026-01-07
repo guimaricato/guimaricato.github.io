@@ -1,0 +1,33 @@
+---
+title: "Teaching & Mentoring"
+---
+
+I am committed to training the next generation of ecologists, with a focus on quantitative methods and reproducible science.
+
+## Courses Taught
+
+### Graduate Level
+* **Species Distribution Modeling** (60h)
+    * *Role:* Teaching Assistant (2021-2023) / Instructor (2025)
+    * [cite_start]*Institution:* PPGE-UFRJ & PPGBIO-UNIRIO [cite: 30, 31]
+* **Open Science Practices** (30h)
+    * *Role:* Instructor (2025)
+    * [cite_start]*Institution:* PPGE-UFRJ [cite: 32]
+* **Geospatial Analysis Applied to Animal Biology** (45h)
+    * *Role:* Teaching Assistant (2020)
+    * [cite_start]*Institution:* PPGBA-UFRRJ [cite: 38]
+
+### Undergraduate Level
+* [cite_start]**The Ecological Role of Marine Mammals** (UFRJ, 2024-2025) [cite: 34]
+* [cite_start]**Life Story and Evolution** (UERJ, 2022) [cite: 36]
+* [cite_start]**Biology of Marine Mammals** (FAMATH, 2013-2014) [cite: 45]
+
+## Mentoring
+
+### Current Students
+* **Danilo Simas** (M.Sc. Candidate, UFRJ, 2025-2027)
+    * [cite_start]*Project:* Marine climate refugia: an essential component for the conservation of coastal marine mammals[cite: 48].
+* **Danilo Simas** (Undergrad, UFRJ, 2023-2024)
+    * [cite_start]*Project:* Impacts of climate change on functional diversity in Cetacea in Brazil[cite: 50].
+* **Lara Rodrigues** (Undergrad, UFRJ, 2023-2024)
+    * [cite_start]*Project:* Blue corridor: the migration of humpback whales in coastal waters[cite: 52].

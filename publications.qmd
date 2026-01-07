@@ -1,0 +1,9 @@
+---
+title: "Publications"
+bibliography: attachments/my_publications.bib
+nocite: |
+  @*
+---
+
+::: {#refs}
+:::

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "guimaricato.github.io",
+    "title": "Guilherme Maricato",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Sou Doutor em Ecologia e Evolução, focado em [Suas Áreas de Interesse]. Atualmente trabalho com Ciência de Dados aplicada à biodiversidade e sou entusiasta da Ciência Aberta.\nNeste site você encontra meus projetos, publicações e tutoriais sobre R e estatística.\n\n\n\nEcologia de Comunidades\nModelagem Estatística\nCiência Reprodutível"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#olá",
+    "href": "index.html#olá",
+    "title": "Guilherme Maricato",
+    "section": "",
+    "text": "Sou Doutor em Ecologia e Evolução, focado em [Suas Áreas de Interesse]. Atualmente trabalho com Ciência de Dados aplicada à biodiversidade e sou entusiasta da Ciência Aberta.\nNeste site você encontra meus projetos, publicações e tutoriais sobre R e estatística.\n\n\n\nEcologia de Comunidades\nModelagem Estatística\nCiência Reprodutível"
   }
 ]

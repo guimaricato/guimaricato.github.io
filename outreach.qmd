@@ -1,0 +1,37 @@
+---
+title: "Outreach & Science Communication"
+---
+
+I believe in making science accessible beyond academia. I frequently contribute to media outlets and educational projects.
+
+## The Conversation
+
+I am a recurring author at **The Conversation**, an independent source of news and views from the academic and research community.
+
+[![](https://cdn.theconversation.com/static/tc/au/profile_header_logo.png){width=200}](https://theconversation.com/profiles/guilherme-maricato-2548754)
+
+::: {.callout-note appearance="simple"}
+### Follow my work
+Check out my full profile and latest articles on **[The Conversation](https://theconversation.com/profiles/guilherme-maricato-2548754)**.
+:::
+
+### Selected Articles
+
+* **[Título do Artigo Mais Recente Aqui]**
+    * *Summary or teaser of the article...*
+    * [Read article →](LINK_DO_ARTIGO)
+
+* **[Título do Outro Artigo Aqui]**
+    * *Summary or teaser...*
+    * [Read article →](LINK_DO_ARTIGO)
+
+---
+
+## Other Projects
+
+* **Siga Chapéu de Bruxa** (2021-2022)
+    * A science communication series about the "Flipper" dolphins of Rio de Janeiro.
+    * [Read more](LINK)
+
+* **Marine Biodiversity Guide** (2019)
+    * Co-authored the chapter on Whales and Dolphins for the "Islands of Rio" guide.

@@ -1,22 +1,16 @@
-project:
-  type: website
-  output-dir: docs
-
 website:
-  title: "guimaricato.github.io"
+  title: "Guilherme Maricato"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-editor: visual
-
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: outreach.qmd
+        text: Outreach
+      - href: attachments/cv.pdf # Salve seu PDF com nome simples na pasta raiz
+        text: CV
