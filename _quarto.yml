@@ -1,3 +1,7 @@
+project:
+  type: website
+  output-dir: docs
+
 website:
   title: "Guilherme Maricato"
   navbar:
@@ -12,5 +16,16 @@ website:
         text: Teaching
       - href: outreach.qmd
         text: Outreach
-      - href: attachments/cv.pdf # Salve seu PDF com nome simples na pasta raiz
+      - href: attachments/cv.pdf
         text: CV
+    right:
+      - icon: github
+        href: https://github.com/guimaricato
+      - icon: linkedin
+        href: https://www.linkedin.com/in/guilherme.maricato
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

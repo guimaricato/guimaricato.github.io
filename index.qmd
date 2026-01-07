@@ -25,15 +25,15 @@ about:
 
 ## Welcome!
 
-[cite_start]I am an ecologist with over 10 years of experience in **marine mammal conservation**[cite: 8]. [cite_start]Currently, I am a Postdoctoral Research Fellow at the **Federal University of Rio de Janeiro (UFRJ)** and a Courtesy Postdoctoral Associate at **Florida International University (FIU)**[cite: 10].
+\[cite_start\]I am an ecologist with over 10 years of experience in **marine mammal conservation**\[cite: 8\]. \[cite_start\]Currently, I am a Postdoctoral Research Fellow at the **Federal University of Rio de Janeiro (UFRJ)** and a Courtesy Postdoctoral Associate at **Florida International University (FIU)**\[cite: 10\].
 
-[cite_start]My research focuses on **Spatial Ecology** and **Species Distribution Modeling (SDM)**[cite: 9], aiming to understand how marine megafauna navigate anthropogenic landscapes. [cite_start]I integrate field data, remote sensing, and statistical modeling to mitigate conflicts between biodiversity and human activities[cite: 10].
+\[cite_start\]My research focuses on **Spatial Ecology** and **Species Distribution Modeling (SDM)**\[cite: 9\], aiming to understand how marine megafauna navigate anthropogenic landscapes. \[cite_start\]I integrate field data, remote sensing, and statistical modeling to mitigate conflicts between biodiversity and human activities\[cite: 10\].
 
-[cite_start]I am also a strong advocate for **Open Science** practices and reproducibility in ecology[cite: 32].
+\[cite_start\]I am also a strong advocate for **Open Science** practices and reproducibility in ecology\[cite: 32\].
 
 ### Interests
 
-* Spatial Ecology & SDM
-* Marine Conservation
-* Human-Wildlife Interactions
-* Open Science
+-   Spatial Ecology & SDM
+-   Marine Conservation
+-   Human-Wildlife Interactions
+-   Open Science
