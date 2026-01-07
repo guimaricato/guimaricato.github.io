@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Guilherme Maricato"
+  search: true
   navbar:
     left:
       - href: index.qmd
@@ -16,16 +17,25 @@ website:
         text: Teaching
       - href: outreach.qmd
         text: Outreach
-      - href: attachments/cv.pdf
+      - href: /attachments/cv.pdf
         text: CV
     right:
-      - icon: github
-        href: https://github.com/guimaricato
-      - icon: linkedin
-        href: https://www.linkedin.com/in/guilherme.maricato
+    - text: "{{< ai lattes >}}"
+      href: https://lattes.cnpq.br/0119708038699421
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-7813-0644
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Guilherme-Maricato
+    - icon: github
+      href: https://github.com/guimaricato
+    - icon: linkedin
+      href: https://www.linkedin.com/in/guilherme-maricato
+    - icon: envelope
+      href: "mailto:guilherme.maricato@biologia.ufrj.br"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    link-external-newwindow: true

@@ -1,23 +1,24 @@
 ---
 title: "Guilherme Maricato"
-subtitle: "Ph.D. in Ecology and Evolution | Postdoctoral Research Fellow"
-image: images/profile.jpg
+subtitle: "Ph.D. in Ecology and Evolution<br>Postdoctoral Research Fellow"
+image: /images/profile.png
+toc: false
 about:
   template: trestles
-  image-shape: round
+  image-shape: rounded
   links:
+    - text: "{{< ai lattes >}} Lattes"
+      href: https://lattes.cnpq.br/0119708038699421
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-7813-0644
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Guilherme-Maricato
+    - icon: github
+      text: GitHub
+      href: https://github.com/guimaricato
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/guilherme-maricato
-    - text: ResearchGate
-      icon: file-text
-      href: https://www.researchgate.net/profile/Guilherme-Maricato
-    - text: ORCID
-      icon: person-badge
-      href: https://orcid.org/0000-0002-7813-0644
-    - icon: github
-      text: Github
-      href: https://github.com/guimaricato
     - icon: envelope
       text: Email
       href: "mailto:guilherme.maricato@biologia.ufrj.br"
@@ -25,11 +26,11 @@ about:
 
 ## Welcome!
 
-\[cite_start\]I am an ecologist with over 10 years of experience in **marine mammal conservation**\[cite: 8\]. \[cite_start\]Currently, I am a Postdoctoral Research Fellow at the **Federal University of Rio de Janeiro (UFRJ)** and a Courtesy Postdoctoral Associate at **Florida International University (FIU)**\[cite: 10\].
+I am an ecologist with over 10 years of experience in **marine mammal conservation**. My research focuses on spatial ecology and environmental changes, aiming to mitigate conflicts between biodiversity and human activities.
 
-\[cite_start\]My research focuses on **Spatial Ecology** and **Species Distribution Modeling (SDM)**\[cite: 9\], aiming to understand how marine megafauna navigate anthropogenic landscapes. \[cite_start\]I integrate field data, remote sensing, and statistical modeling to mitigate conflicts between biodiversity and human activities\[cite: 10\].
+Currently, I am a postdoctoral research fellow at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en) and a courtesy postdoctoral associate at [Florida International University (FIU)](https://fiu.edu/).
 
-\[cite_start\]I am also a strong advocate for **Open Science** practices and reproducibility in ecology\[cite: 32\].
+I also collaborate with the [Marine Ecology and Conservation Lab (ECoMAR)](https://ecomarufrj.com.br/en/), the [Islands of Rio Project](https://ilhasdorio.org.br/), and the [Brazilian Humpback Whale Institute](https://www.baleiajubarte.org.br/).
 
 ### Interests
 

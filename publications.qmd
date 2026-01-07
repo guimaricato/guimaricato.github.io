@@ -1,9 +1,18 @@
 ---
 title: "Publications"
 bibliography: attachments/my_publications.bib
+csl: attachments/apa-cv.csl
 nocite: |
   @*
+format: html
 ---
 
-::: {#refs}
+<style>
+div.csl-entry {
+  margin-bottom: 2em;
+  text-align: justify;
+}
+</style>
+
+:::{#refs}
 :::

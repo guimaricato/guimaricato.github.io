@@ -6,19 +6,19 @@ My research combines quantitative ecology with conservation biology to answer qu
 
 ## 1. Species Distribution Modeling & Spatial Ecology
 
-I apply and develop spatial analysis frameworks to predict species occurrence and habitat suitability. [cite_start]My work investigates how environmental variables drive the distribution of cetaceans, from coastal dolphins (*Sotalia guianensis*, *Tursiops truncatus*) to oceanic whales[cite: 9, 14, 16].
+I apply and develop spatial analysis frameworks to predict species occurrence and habitat suitability. \[cite_start\]My work investigates how environmental variables drive the distribution of cetaceans, from coastal dolphins (*Sotalia guianensis*, *Tursiops truncatus*) to oceanic whales\[cite: 9, 14, 16\].
 
-* **Key Focus:** Understanding the ecological niche of marine mammals in dynamic oceanographic environments.
+-   **Key Focus:** Understanding the ecological niche of marine mammals in dynamic oceanographic environments.
 
 ## 2. Human Impacts & Marine Spatial Planning
 
-A major part of my research assesses the overlap between marine biodiversity and anthropogenic stressors. [cite_start]I evaluate exposure to threats to identify conflict zones and propose management actions[cite: 10, 105].
+A major part of my research assesses the overlap between marine biodiversity and anthropogenic stressors. \[cite_start\]I evaluate exposure to threats to identify conflict zones and propose management actions\[cite: 10, 105\].
 
-* [cite_start]**Current Projects:** Investigating marine protected areas (MPAs) effectiveness for Bryde’s whales and bottlenose dolphins[cite: 105].
-* [cite_start]**Past Work:** Assessment of aerial behaviors of humpback whales in Northeastern Brazil[cite: 18].
+-   \[cite_start\]**Current Projects:** Investigating marine protected areas (MPAs) effectiveness for Bryde’s whales and bottlenose dolphins\[cite: 105\].
+-   \[cite_start\]**Past Work:** Assessment of aerial behaviors of humpback whales in Northeastern Brazil\[cite: 18\].
 
 ## 3. Marine Mammal Biology & Conservation
 
-[cite_start]Since 2012, I have been monitoring marine mammal populations in Brazil[cite: 8]. This involves studying their behavior, social structure, and health parameters to understand population dynamics.
+\[cite_start\]Since 2012, I have been monitoring marine mammal populations in Brazil\[cite: 8\]. This involves studying their behavior, social structure, and health parameters to understand population dynamics.
 
-* [cite_start]**Field Experience:** I have served as an associate researcher for the *Maresis Project*, *Humpback Whale Project*, and *Whales & Dolphins of Rio Project*[cite: 20, 21, 23].
+-   \[cite_start\]**Field Experience:** I have served as an associate researcher for the *Maresis Project*, *Humpback Whale Project*, and *Whales & Dolphins of Rio Project*\[cite: 20, 21, 23\].
