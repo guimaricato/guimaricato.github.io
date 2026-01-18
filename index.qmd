@@ -9,16 +9,21 @@ about:
   links:
     - text: "{{< ai lattes >}} Lattes"
       href: https://lattes.cnpq.br/0119708038699421
+      target: _blank
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-7813-0644
+      target: _blank
     - text: "{{< ai researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Guilherme-Maricato
+      target: _blank
     - icon: github
       text: GitHub
       href: https://github.com/guimaricato
+      target: _blank
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/guilherme-maricato
+      target: _blank
     - icon: envelope
       text: Email
       href: "mailto:guilherme.maricato@biologia.ufrj.br"
