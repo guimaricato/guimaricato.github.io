@@ -1,0 +1,40 @@
+---
+title: "Guilherme Maricato"
+subtitle: "Ph.D. in Ecology and Evolution<br>Postdoctoral Research Fellow"
+image: /attachments/profile.png
+toc: false
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - text: "{{< ai lattes >}} Lattes"
+      href: https://lattes.cnpq.br/0119708038699421
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-7813-0644
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Guilherme-Maricato
+    - icon: github
+      text: GitHub
+      href: https://github.com/guimaricato
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/guilherme-maricato
+    - icon: envelope
+      text: Email
+      href: "mailto:guilherme.maricato@biologia.ufrj.br"
+---
+
+## Welcome!
+
+I am an ecologist with over 10 years of experience in **marine mammal conservation**. My research focuses on spatial ecology and environmental changes, aiming to mitigate conflicts between biodiversity and human activities.
+
+Currently, I am a postdoctoral research fellow at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en) and a courtesy postdoctoral associate at [Florida International University (FIU)](https://fiu.edu/).
+
+I also collaborate with the [Marine Ecology and Conservation Lab (ECoMAR)](https://ecomarufrj.com.br/en/), the [Islands of Rio Project](https://ilhasdorio.org.br/), and the [Brazilian Humpback Whale Institute](https://www.baleiajubarte.org.br/).
+
+### Interests
+
+- Spatial modeling
+- Human-wildlife interactions
+- Conservation policy
+- Open science

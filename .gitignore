@@ -1,0 +1,20 @@
+# --- Arquivos de Sistema (Windows/Mac) ---
+# Impede que configurações de pasta do seu computador subam para o site
+.DS_Store
+Thumbs.db
+
+# --- R e RStudio (Essenciais) ---
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# --- Quarto (Cache e Temporários) ---
+/.quarto/
+**/*.quarto_ipynb
+*_files/
+
+# --- Outros ---
+# Arquivos de log de erro ou backups automáticos
+*.log
+*.bak

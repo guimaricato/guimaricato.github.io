@@ -1,0 +1,36 @@
+---
+title: "Teaching & Mentoring"
+---
+
+I am committed to training the next generation of ecologists, with a focus on quantitative methods and reproducible science.
+
+## Courses Taught
+
+### Graduate Level
+
+-   **Species distribution modeling** (60h)
+    -   *Role:* Teaching assistant (2021-2023) / Professor (2025)
+    -   *Programs:* [PPGE-UFRJ](https://ppge.ufrj.br/en) & [PPGBIO-UNIRIO](https://www.unirio.br/unirio/ccbs/ibio/ppgbio/en)
+-   **Open science practices** (30h)
+    -   *Role:* Professor (2025)
+    -   *Program:* [PPGE-UFRJ](https://ppge.ufrj.br/en)
+-   **Geospatial analysis applied to animal biology** (45h)
+    -   *Role:* Teaching assistant (2020)
+    -   *Program:* [PPGBA-UFRRJ](https://sigaa.ufrrj.br/sigaa/public/programa/portal.jsf?lc=en_US&id=7546)
+
+### Undergraduate Level
+
+-   **Behavioral ecology** (45h)
+    -   *Role:* Teaching assistant (2014)
+    -   *Institution:* [FAMATH](https://mariathereza.com.br/)
+-   **Biology of marine mammals** (60h)
+    -   *Role:* Teaching assistant (2013-2014)
+    -   *Institution:* [FAMATH](https://mariathereza.com.br/)
+    
+## Mentoring
+
+### Current Students
+
+-   [**Danilo Simas**](https://lattes.cnpq.br/8754200156280763) (2026-2028, co-advising)
+    -   *Project:* Marine climate refugia: an essential component for the conservation of coastal marine mammals.
+    -   *Program:* Master's, [PPGE-UFRJ](https://ppge.ufrj.br/en)

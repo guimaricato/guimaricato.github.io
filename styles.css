@@ -1,0 +1,11 @@
+/* css styles */
+
+/* Altera o espaçamento entre itens de listas (bullet points) */
+main ul li {
+    margin-bottom: 0.5em; /* Aumente ou diminua este valor a gosto */
+}
+
+/* Altera o espaçamento entre subitens de listas (bullet points) */
+ul ul li {
+    margin-bottom: 0.1em;
+}

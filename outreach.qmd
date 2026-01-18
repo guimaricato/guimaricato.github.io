@@ -1,0 +1,39 @@
+---
+title: "Outreach"
+format: html
+---
+
+I believe in making science accessible beyond academia. I frequently contribute to media outlets and educational projects to share our findings on cetacean conservation.
+
+## Science Communication
+
+I actively produce content to bridge the gap between scientific research and the general public.
+
+### The Conversation
+
+I am a recurring author at [*The Conversation*](https://theconversation.com/), an independent source of news and views from the academic and research community.
+
+::: {.callout-note appearance="minimal"}
+### 👤 Visit my profile
+
+[Check out](https://theconversation.com/profiles/guilherme-maricato-2548754) my latest articles.
+:::
+
+### Other articles
+
+I have contributed to the [*Revista Biologia Marinha de Divulgação Científica*](https://www.bioicos.org.br/revistabiologiamarinha), specifically with a series of articles telling the stories of the "flipper family", a resident population of bottlenose dolphins (*Tursiops truncatus*) in Rio de Janeiro.
+
+-   **Siga Chapéu de Bruxa, o serelepe golfinho-fliper**
+    -   Lodi, L. & Maricato, G. (2022)
+    -   [Read here](https://www.bioicos.org.br/post/siga-chapeu-de-bruxa-o-serelepe-golfinho-fliper)
+-   **O arquipélago carioca dos golfinhos-fliper**
+    -   Lodi, L. & Maricato, G. (2021)
+    -   [Read here](https://www.bioicos.org.br/post/o-arquipelago-carioca-dos-golfinhos-fliper)
+
+## Media & Press
+
+I actively engage with the press to discuss marine biodiversity and conservation challenges. My contributions include interviews for TV, printed newspapers, and online news portals.
+
+-   **📺 TV & Video Interviews:** You can watch a curated collection of my media appearances on my [**YouTube playlist**](https://www.youtube.com/playlist?list=PLbdj34Y5gP7dvFw6kf5y7B2kxQazHxIKo).
+
+-   **📰 Print & Online News:** I have provided expert commentary for various national and international outlets.

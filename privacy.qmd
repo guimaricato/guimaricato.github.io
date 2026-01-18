@@ -1,0 +1,22 @@
+---
+title: "Privacy Policy"
+format: html
+---
+
+Last updated: January 2026.
+
+This is a personal academic website. I respect your privacy and do not collect personal data from visitors for commercial purposes.
+
+## Data Collection
+
+This website is static and hosted on **GitHub Pages**. I do not personally collect, store, or sell any data from visitors.
+
+However, as a hosting provider, GitHub may collect typical server log information (such as your IP address and browser type) for security and reliability purposes. You can read GitHub's Global Privacy Statement [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+## Cookies
+
+This website does not use tracking cookies or third-party advertising cookies.
+
+## Contact
+
+If you have any questions about this website, you can contact me at [guilherme.maricato@biologia.ufrj.br](mailto:guilherme.maricato@biologia.ufrj.br).

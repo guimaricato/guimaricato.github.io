@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Guilherme Maricato"
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: outreach.qmd
+        text: Outreach
+      - href: teaching.qmd
+        text: Teaching
+      - href: /attachments/cv.pdf
+        text: CV
+    right:
+    - text: "{{< ai lattes >}}"
+      href: https://lattes.cnpq.br/0119708038699421
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-7813-0644
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Guilherme-Maricato
+    - icon: github
+      href: https://github.com/guimaricato
+    - icon: linkedin
+      href: https://www.linkedin.com/in/guilherme-maricato
+    - icon: envelope
+      href: "mailto:guilherme.maricato@biologia.ufrj.br"
+  page-footer:
+    center: "© 2026 Guilherme Maricato | [Privacy Policy](privacy.qmd)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    link-external-newwindow: true

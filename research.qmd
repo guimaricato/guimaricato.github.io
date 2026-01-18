@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+My research combines quantitative ecology with conservation biology to answer questions across three main themes:
+
+## Species Distribution Modeling
+
+I apply and develop spatial analysis frameworks to predict species occurrence and habitat suitability. My work investigates how environmental and anthropogenic variables drive the distribution of cetaceans, from estuarine dolphins to oceanic whales.
+
+- **Key focus:** Understanding the functional diversity of marine mammals in changing environments.
+
+## Human Impacts & Marine Spatial Planning
+
+A major part of my research assesses the overlap between marine biodiversity and anthropogenic stressors. I evaluate exposure to threats to identify conflict zones and propose management actions.
+
+- **Key focus:** Investigating marine protected areas (MPAs) effectiveness for marine mammals in climate change scenarios.
+
+## Applied Science & Cross-Sectoral Experience
+
+My professional trajectory is built on the intersection of academic research, non-governmental organizations (NGOs), and environmental consulting. This hybrid background allows me to bridge the gap between theoretical ecology and practical conservation, translating complex scientific data into actionable management solutions.
+
+- **Research laboratories:** As a researcher in academic institutions, I focus on developing rigorous quantitative frameworks and answering fundamental ecological questions about marine species.
+- **NGOs & environmental projects:** Working with organizations, I gained extensive field experience in monitoring cetacean populations and understanding the on-the-ground challenges of marine conservation.
+- **Environmental consulting:** I apply my technical expertise in data collection and analysis to provide evidence-based assessments for environmental licensing and impact studies, ensuring that scientific products directly support decision-making processes.

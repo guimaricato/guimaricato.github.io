@@ -1,0 +1,41 @@
+---
+title: "Publications"
+bibliography: attachments/my_articles.bib
+csl: attachments/apa-cv.csl
+nocite: |
+  @*
+format: html
+---
+
+<style>
+div.csl-bib-body {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+div.csl-entry {
+  margin-bottom: 1.5em;
+  text-align: left;
+  margin-left: 1cm;
+  text-indent: -1cm;
+}
+</style>
+
+## Scientific Articles
+
+:::{#refs}
+:::
+
+## Book Chapters
+
+<div class="csl-entry">
+  Kiszka, J. J., Maricato, G., & Caputo, M. (2024). Habitat suitability, occurrence, and behavior of dwarf sperm whales (<i>Kogia sima</i>) off St. Vincent and the Grenadines, Eastern Caribbean. In <i>Advances in Marine Biology</i> (Vol. 99, pp. 1–19). Elsevier. <a href="https://doi.org/10.1016/bs.amb.2024.09.002" target="_blank">https://doi.org/10.1016/bs.amb.2024.09.002</a>
+</div>
+
+<div class="csl-entry">
+  Tardin, R., Maciel, I. S., Maricato, G., Anibolete, D., Melo, L. V., Silva, D., Cezimbra, T., Leal, C., & Fróes, P. (2023). The Guiana dolphin (<i>Sotalia guianensis</i>) in an anthropized urban bay in southeastern Brazil in the context of the Socio-Environmental Observatory of Sepetiba Bay. In <i>Baía de Sepetiba: diagnósticos, análises e metodologias participativas. Intervenções dialógicas como contribuições para a governança territorial</i> (pp. 167–190). Letra Capital. <a href="https://www.researchgate.net/publication/377107918_The_Guiana_dolphin_Sotalia_guianensis_in_an_anthropized_urban_bay_in_southeastern_Brazil_in_the_context_of_the_Socio-Environmental_Observatory_of_Sepetiba_Bay" target="_blank">[link]</a>
+</div>
+
+<div class="csl-entry">
+  Lodi, L., Maricato, G., & Hetzel, B. (2019). Whales, dolphins, and orcas: the ambassadors of the oceans! In <i>Marine biodiversity and diving guide to the islands of Rio</i> (pp. 325–341). Museu Nacional. <a href="https://ilhasdorio.org.br/wp-content/uploads/2019/12/PIR_GUIA_MERG_WEB_5-1.pdf#page=325.10" target="_blank">[link]</a>
+</div>
