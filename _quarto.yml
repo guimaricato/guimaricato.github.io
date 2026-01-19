@@ -44,6 +44,7 @@ website:
         target: _blank
       - icon: envelope
         href: "mailto:guilherme.maricato@biologia.ufrj.br"
+      - text: "|"
 
   page-footer:
     center: "© 2026 Guilherme Maricato | [Privacy Policy](privacy.qmd)"
