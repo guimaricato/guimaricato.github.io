@@ -51,12 +51,12 @@ website:
 
   open-graph:
     title: "Guilherme Maricato"
-    description: "Academic portfolio of Guilherme Maricato"
+    description: "Take a dive into my academic portfolio"
     image: attachments/profile.png
     locale: "en_US"
   twitter-card:
     title: "Guilherme Maricato"
-    description: "Academic portfolio of Guilherme Maricato"
+    description: "Take a dive into my academic portfolio"
     image: attachments/profile.png
     card-style: summary
 
