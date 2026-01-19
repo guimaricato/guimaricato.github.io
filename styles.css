@@ -9,3 +9,21 @@ main ul li {
 ul ul li {
     margin-bottom: 0.1em;
 }
+
+/* Ajuste para Menu Mobile: Ícones na horizontal */
+@media (max-width: 991px) {
+  /* Alvo: A parte direita da navbar (onde estão os ícones) */
+  .navbar-collapse .navbar-nav.ms-auto {
+    flex-direction: row !important; /* Força linha horizontal */
+    justify-content: center;        /* Centraliza na tela */
+    gap: 20px;                      /* Espaço entre os ícones */
+    margin-top: 15px;               /* Um respiro do item de cima */
+    margin-bottom: 15px;            /* Um respiro do rodapé */
+    flex-wrap: wrap;                /* Se tiver muitos, quebra linha bonito */
+  }
+
+  /* Aumenta um pouco a área de clique do ícone no dedo */
+  .navbar-collapse .navbar-nav.ms-auto .nav-link {
+    padding: 10px;
+  }
+}
