@@ -1,7 +1,7 @@
 ---
 title: "Guilherme Maricato"
 subtitle: "Ph.D. in Ecology and Evolution<br>Postdoctoral Research Fellow"
-image: /attachments/profile.png
+image: attachments/profile.png
 toc: false
 about:
   template: trestles
@@ -35,7 +35,7 @@ I am an ecologist with over 10 years of experience in **marine mammal conservati
 
 Currently, I am a postdoctoral research fellow at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/en) and a courtesy postdoctoral associate at [Florida International University (FIU)](https://fiu.edu/).
 
-I also collaborate with the [Marine Ecology and Conservation Lab (ECoMAR)](https://ecomarufrj.com.br/en/), the [Islands of Rio Project](https://ilhasdorio.org.br/), and the [Brazilian Humpback Whale Institute](https://www.baleiajubarte.org.br/).
+I also collaborate with the [Marine Ecology and Conservation Lab (ECoMAR)](https://ecomarufrj.com.br/en), the [Islands of Rio Project](https://ilhasdorio.org.br/), and the [Brazilian Humpback Whale Institute](https://www.baleiajubarte.org.br/).
 
 ### Interests
 

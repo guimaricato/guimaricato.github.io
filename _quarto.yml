@@ -3,9 +3,13 @@ project:
   output-dir: docs
   resources:
     - CNAME
+  render:
+    - "*qmd"
+    - "!backup_pt_legacy/"
 
 website:
   title: "Guilherme Maricato"
+  favicon: attachments/logo.png
   search: true
   navbar:
     left:
@@ -19,29 +23,41 @@ website:
         text: Outreach
       - href: teaching.qmd
         text: Teaching
-      - href: /attachments/cv.pdf
+      - href: attachments/cv.pdf
         text: CV
         target: _blank
     right:
-    - text: "{{< ai lattes >}}"
-      href: https://lattes.cnpq.br/0119708038699421
-      target: _blank
-    - text: "{{< ai orcid >}}"
-      href: https://orcid.org/0000-0002-7813-0644
-      target: _blank
-    - text: "{{< ai researchgate >}}"
-      href: https://www.researchgate.net/profile/Guilherme-Maricato
-      target: _blank
-    - icon: github
-      href: https://github.com/guimaricato
-      target: _blank
-    - icon: linkedin
-      href: https://www.linkedin.com/in/guilherme-maricato
-      target: _blank
-    - icon: envelope
-      href: "mailto:guilherme.maricato@biologia.ufrj.br"
+      - text: "{{< ai lattes >}}"
+        href: https://lattes.cnpq.br/0119708038699421
+        target: _blank
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-7813-0644
+        target: _blank
+      - text: "{{< ai researchgate >}}"
+        href: https://www.researchgate.net/profile/Guilherme-Maricato
+        target: _blank
+      - icon: github
+        href: https://github.com/guimaricato
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/guilherme-maricato
+        target: _blank
+      - icon: envelope
+        href: "mailto:guilherme.maricato@biologia.ufrj.br"
+
   page-footer:
     center: "© 2026 Guilherme Maricato | [Privacy Policy](privacy.qmd)"
+
+  open-graph:
+    title: "Guilherme Maricato"
+    description: "Academic portfolio of Guilherme Maricato"
+    image: attachments/profile.png
+    locale: "en_US"
+  twitter-card:
+    title: "Guilherme Maricato"
+    description: "Academic portfolio of Guilherme Maricato"
+    image: attachments/profile.png
+    card-style: summary
 
 format:
   html:
@@ -51,3 +67,5 @@ format:
     css: styles.css
     toc: true
     link-external-newwindow: true
+
+lang: en
