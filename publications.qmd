@@ -29,7 +29,11 @@ div.csl-entry {
 ## Book Chapters
 
 <div class="csl-entry">
-  Kiszka, J. J., Maricato, G., & Caputo, M. (2024). Habitat suitability, occurrence, and behavior of dwarf sperm whales (<i>Kogia sima</i>) off St. Vincent and the Grenadines, Eastern Caribbean. In <i>Advances in Marine Biology</i> (Vol. 99, pp. 1–19). Elsevier. <a href="https://doi.org/10.1016/bs.amb.2024.09.002" target="_blank">https://doi.org/10.1016/bs.amb.2024.09.002</a>
+  Wedekin, L. L., Machado, A. M. S., Romeu, B., Maricato, G., de Mello, D. M. D., Freitas-Eduardo, N. M., Marcon, E. H., Marcondes, M. C. C., de Oliveira, L. L., & Costa-Silva, S. (2026). Assessing cetacean responses to seismic surveys with an individual-based integrative approach. In <i>The Effects of Noise on Aquatic Life IV</i> (pp. 1–12). Springer Nature Switzerland. <a href="https://doi.org/10.1007/978-3-031-94229-7_224-1" target="_blank">https://doi.org/10.1007/978-3-031-94229-7_224-1</a>
+</div>
+
+<div class="csl-entry">
+  Kiszka, J. J., Maricato, G., & Caputo, M. (2024). Habitat suitability, occurrence, and behavior of dwarf sperm whales (<i>Kogia sima</i>) off St. Vincent and the Grenadines, Eastern Caribbean. In <i>Advances in Marine Biology</i> (vol. 99, pp. 1–19). Elsevier. <a href="https://doi.org/10.1016/bs.amb.2024.09.002" target="_blank">https://doi.org/10.1016/bs.amb.2024.09.002</a>
 </div>
 
 <div class="csl-entry">
