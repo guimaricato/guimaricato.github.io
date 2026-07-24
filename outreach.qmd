@@ -13,9 +13,7 @@ I actively produce content to bridge the gap between scientific research and the
 
 I am a recurring author at [*The Conversation*](https://theconversation.com/), an independent source of news and views from the academic and research community.
 
-::: {.callout-note appearance="minimal"}
-### 👤 Visit my profile
-
+::: {.callout-note title="👤 Visit my profile" appearance="default" icon=false}
 [Check out](https://theconversation.com/profiles/guilherme-maricato-2548754) my latest articles.
 :::
 

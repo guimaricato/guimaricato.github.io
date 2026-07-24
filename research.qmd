@@ -23,3 +23,7 @@ My professional trajectory is built on the intersection of academic research, no
 - **Research laboratories:** As a researcher in academic institutions, I focus on developing rigorous quantitative frameworks and answering fundamental ecological questions about marine species.
 - **NGOs & environmental projects:** Working with organizations, I gained extensive field experience in monitoring cetacean populations and understanding the on-the-ground challenges of marine conservation.
 - **Environmental consulting:** I apply my technical expertise in data collection and analysis to provide evidence-based assessments for environmental licensing and impact studies, ensuring that scientific products directly support decision-making processes.
+
+::: {.callout-note title="🏛️ Policy impact" appearance="default" icon=false}
+Interested in how my research translates into public policy? You can explore my policy mentions, global citation map, and policy document references on my [Sage Policy Profiles](https://policyprofiles.sagepub.com/profile/35329/guilherme-maricato).
+:::
